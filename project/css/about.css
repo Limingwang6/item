@@ -1,0 +1,84 @@
+.aboutbg{
+    margin-top: 20px;
+    width: 100%;
+    background: url(../img/about-bg.jpg)  50% 0 no-repeat;
+    background-attachment: fixed;
+    height: 400px;
+    margin-left: -1%;
+    padding-right: 2%;
+}
+.animated{
+    padding-left: 15px;
+    margin-left: 13%;
+}
+.animated h2{
+    font-size: 50px;
+    margin: 0;
+    font-weight: 100;
+    color: #fff;
+    padding-top: 200px;
+}
+.animated p{
+    font-size: 20px;
+    color: #fff;
+    margin-top: 15px;
+}
+.newnav{
+    border-bottom: 1px solid #ddd;
+    height: 80px;
+}
+.tit li{list-style: none;margin-left: 16%;margin-top: 1%;}
+.tit li a{
+    color: #fa8557;
+    font-size:14px;
+}
+.xs{float: left;margin-top: 1%;}
+.xs a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #000;
+    padding-left: 40px;
+}
+.col-xs img{
+    margin-left:11%;
+}
+.coll-texts{
+    position: absolute;
+    left: 42%;
+    margin-top: -23%;
+}
+.coll-texts h2{
+    font-size: 30px;
+    line-height: 100px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.coll-texts p{
+    width: 750px;
+    font-size: 16px;
+    text-indent: 24px;
+    line-height: 35px;
+    margin-top: -4%;
+}
+.row-wenben{
+    font-size: 16px;
+    margin-left:9%;
+}
+.cls{
+    float:left;
+    padding-left: 20px;
+    margin-bottom: 3%;
+}
+.cls h2{
+    line-height: 40px;
+    font-size: 18px;
+    color: #333;
+}
+.cls p{font-size: 16px;width: 400px;}
+.row-brand{ margin-top: 2%;}
+.cls img{transition: all 1.2s;}
+.cls img:hover{
+    transform: scale(1.1, 1.1);
+    transition: 1s;
+}

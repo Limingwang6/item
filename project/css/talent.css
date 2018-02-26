@@ -1,0 +1,43 @@
+.talentbg{
+    margin-bottom: 35px;
+    margin:20px -1%;
+    background: url(../img/home-bg.jpg) 50% 0 no-repeat;
+    background-attachment: fixed;
+    height: 400px;
+}
+.talentbg h2{
+    font-size: 50px;
+    margin-left: 14%;
+    font-weight: 100;
+    color: #fff;
+    padding-top: 200px;
+}
+.talentbg p{
+    font-size: 20px;
+    color: #fff;
+    margin-top: -20px;
+    margin-left: 14%;
+}
+.talent h2{
+    font-size: 18px;
+    border-bottom: 1px solid #ddd;
+    line-height: 40px;
+    color: #333;
+    font-weight: 500;
+}
+.talent h3{
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #666;
+}
+.talent p{
+    font-size: 14px;
+    color: #333;
+}
+.talent{
+    width:390px;
+    float:left;
+    padding-left:30px;
+}
+.row-talent{margin-left: 11%;margin-bottom: 30%;}
